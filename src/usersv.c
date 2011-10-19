@@ -1,3 +1,10 @@
+/*
+ * Copyright (C) 2011 Xagasoft, All rights reserved.
+ *
+ * This file is part of the usersv program and is released under the
+ * terms of the license contained in the file LICENSE.
+ */
+
 #include <unistd.h>
 #include <sys/types.h>
 #include <sys/wait.h>
